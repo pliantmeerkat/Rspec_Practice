@@ -1,5 +1,11 @@
-def test_1
+def test_1(x)
 
-  return 1
+  return x
+
+end
+
+def test_2(x)
+
+  return x + 1 
 
 end
